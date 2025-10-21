@@ -22,6 +22,8 @@ Rappelons ci-dessous les différents UE ainsi que leurs UC :
   c. Contribuer à la mise en production dans une démarche DevOps  
 Nous traiterons de manière théorique et pratique tous les UE ainsi que leurs UC. 
   
+
+## Organisation  
 **Vous vous demandez sûrement comment nous allons nous organiser ?**   
 L'organisation sera faite par semaine. Chaque semaine, nous nous concentrerons sur un UE (nous les ferrons dans l'ordre) ainsi que sur une ou plusieurs UC. J'uploaderai au fur et à mesure de mon avancée personnelle.  
   
