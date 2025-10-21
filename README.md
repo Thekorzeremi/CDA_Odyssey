@@ -47,5 +47,7 @@ Pour mon environnement de travail, je ferai avec le strict minimum :
   
 Je n'utiliserai pas d'IA dans mon IDE pour éviter toute facilité et maximiser l'apprentissage.  
   
-## Licence & Contribution  
-Projet sous licence MIT. Merci de voir **LICENSE.md** dans le repository.  
+## Licence & Contribution 
+Ce projet est sous licence MIT © 2025 Thekorzeremi.  
+Vous pouvez librement le consulter, le forker et l’utiliser à des fins éducatives ou personnelles.  
+Les contributions directes sur ce dépôt ne sont pas possibles.
