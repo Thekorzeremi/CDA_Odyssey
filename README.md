@@ -17,4 +17,8 @@ Rappelons ci-dessous les différents UE ainsi que leurs UC :
   a. Préparer et exécuter les plans de tests d'une application  
   b. Préparer et documenter le déploiement d'une application  
   c. Contribuer à la mise en production dans une démarche DevOps  
-Nous traiterons de manière théorique et pratique tous les UE ainsi que leurs UC.   
+Nous traiterons de manière théorique et pratique tous les UE ainsi que leurs UC. 
+  
+**Vous vous demandez sûrement comment nous allons nous organiser ?** 
+L'organisation sera faite par semaine. Chaque semaine, nous nous concentrerons sur un UE (nous les ferrons dans l'ordre) ainsi que sur une ou plusieurs UC. J'uploaderai au fur et à mesure de mon avancée personnelle.  
+L'objectif est qu'en **six semaines de travail complètes**, je puisse me remettre totalement à niveau. Tous les jours je m'exercerai et je me suis mis comme objectif au moins six heures de travail réparties par jour. Ce qui fait 6h * 7j * 6w = 252 heures de travail au total.
