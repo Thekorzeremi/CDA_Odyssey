@@ -23,6 +23,13 @@ Rappelons ci-dessous les différents UE ainsi que leurs UC :
 Nous traiterons de manière théorique et pratique tous les UE ainsi que leurs UC. 
   
 
+## Objectif  
+L'objectif de ce cours est de voir/revoir et d'acquérir l'ensemble des compétences du titre RNCP.  
+  
+Pourquoi donc me direz-vous ?  
+Pour devenir le GOAT du développement fullstack.  
+![Alt text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3I5dHkxYTQ0d3liZGhvb2JkYnhwNmNrZHQzNnljMnF6cmF3ZjNtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LQtdkTolIp4zeRUHqD/giphy.gif)  
+  
 ## Organisation  
 **Vous vous demandez sûrement comment nous allons nous organiser ?**   
 L'organisation sera faite par semaine. Chaque semaine, nous nous concentrerons sur un UE (nous les ferrons dans l'ordre) ainsi que sur une ou plusieurs UC. J'uploaderai au fur et à mesure de mon avancée personnelle.  
