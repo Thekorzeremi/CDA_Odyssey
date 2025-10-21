@@ -46,3 +46,6 @@ Pour mon environnement de travail, je ferai avec le strict minimum :
 - IDE : Neovim v0.9.5  
   
 Je n'utiliserai pas d'IA dans mon IDE pour éviter toute facilité et maximiser l'apprentissage.  
+  
+## Licence & Contribution  
+Projet sous licence MIT. Merci de voir **LICENSE.md** dans le repository.  
